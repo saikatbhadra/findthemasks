@@ -224,6 +224,14 @@ h3.city {
   margin-top: 20px;
 }
 
+.location > * {
+  padding-left: 2rem;
+}
+
+.locations-list h4 {
+  padding-left: 0;
+}
+
 .filters-container {
   margin: 0 30px;
 }
